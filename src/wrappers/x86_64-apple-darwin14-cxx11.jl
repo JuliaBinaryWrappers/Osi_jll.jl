@@ -10,7 +10,7 @@ LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 
 # Relative path to `libOsiCommonTests`
-const libOsiCommonTests_splitpath = ["lib", "libOsiCommonTests.1.12.9.dylib"]
+const libOsiCommonTests_splitpath = ["lib", "libOsiCommonTests.1.13.6.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libOsiCommonTests_path = ""
@@ -24,7 +24,7 @@ const libOsiCommonTests = "@rpath/libOsiCommonTests.1.dylib"
 
 
 # Relative path to `libOsi`
-const libOsi_splitpath = ["lib", "libOsi.1.12.9.dylib"]
+const libOsi_splitpath = ["lib", "libOsi.1.13.6.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libOsi_path = ""
