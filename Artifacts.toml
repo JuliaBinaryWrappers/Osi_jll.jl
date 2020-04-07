@@ -1,214 +1,214 @@
 [[Osi]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1869dfc78cfb115bba55bf6153f133a5bbc0863f"
+git-tree-sha1 = "6208505a3976dd5b30ce1eeca558ca0993fec034"
 libc = "musl"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "178bbf8737fdc48441b27d7ecdfc0632b4a6771dd6a3a1e46ccfe4f6cfa60d94"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "b9d177e49f312024c20f8f962157b45f9092487e4a2ae12c3ca44c406901c418"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.aarch64-linux-musl-cxx03.tar.gz"
 [[Osi]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9016579084ca99e44eeb402e809cfcb65ea0b424"
+git-tree-sha1 = "3240e6dd60e17e9ebc27bf5ed4e420ef4d53de13"
 libc = "musl"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "0b30fc11221fd08ece50f79189672ad8082042b689d55449eceef3120448fded"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "b8ffe153dfd193566f340aca1bc58eb11026d83f519397187f7830f237dd9dd1"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.aarch64-linux-musl-cxx11.tar.gz"
 [[Osi]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b9c315789332eb922cb0c4390a5a9336f695d33b"
+git-tree-sha1 = "81ee67006bfed5d5ee1b087db52e62948a113283"
 libc = "musl"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "9c6cb50d0de153d83ce11cdfc663e3efcfb3761120e602f734ca0a1378c6484e"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "fc567b1c93ded67a2ef508c874c6f465ff72ab5f8089c23ad390cdf607fae4a0"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Osi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4f0632c9ed0f0daa5bc9c6401dd31f27a1969f03"
+git-tree-sha1 = "1168e3a92b1f3e15bbb6fa74966a8f3604541e91"
 os = "windows"
 
     [[Osi.download]]
-    sha256 = "186a3a81f1d8d4a20998a53a0d6d60d864166bc0bf112d9bd46e0f924433f4f8"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "51352b44404a9074cfca81a4fde3969090d154659249fc08e253ffb4b9ea7b1d"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.x86_64-w64-mingw32-cxx11.tar.gz"
 [[Osi]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ecae26efbf43389360f1888fb01b7f2fb209b62d"
+git-tree-sha1 = "533f433c6247a0b2082476e8a6f82333f792c079"
 libc = "musl"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "cd34590a311b8f4bbf81fbc08465af1bf8f4f81602d454cf649fdf30d82d24cf"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "72b81e284b4d6acd4ea5ae61caae4473aeced98d02f1f173aecf5fadc95f032e"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.i686-linux-musl-cxx11.tar.gz"
 [[Osi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3b36fb2207cfe14f1aae4d450109da584aa60c7c"
+git-tree-sha1 = "b1003801029986dbc39c5de72df99f51be173527"
 libc = "musl"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "77a1969609f97c73b05dc205a63efbccc6f2f1f14cf03425714c721daaf3e91a"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "be44701ee8f251ddc4b4149305e5c3f51d248784d4d8eebaf814e2057301085e"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.x86_64-linux-musl-cxx11.tar.gz"
 [[Osi]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6e4357bd1dd6f0083e2242beed5aee3403de4a60"
+git-tree-sha1 = "420729816d4902c6580ebdb18fc2d38fc093035e"
 libc = "glibc"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "d22c1cc47e505dde0bdfb58f4c79b53b2f4e3f1576d72554b8ac0ff9946c5b6b"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "86a5a712c8025524f85dcac28ab6d1f6dfa3c47caa5e794ff7b179327c5186a7"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.x86_64-linux-gnu-cxx03.tar.gz"
 [[Osi]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ab0584d899f103e0a31b084ec7496d49fcebc9c9"
+git-tree-sha1 = "fa40ae30c5a4b2999b913e25f27b1b3821dcc0be"
 libc = "glibc"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "a0472d620a9fc9f35b1910134cc834f1b291eca6022b3dac66644978a8abfac8"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "6869eb7e7b1602681f01d3a66c3bd6240e94c64141256cb93ffc324ecf973b00"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.i686-linux-gnu-cxx03.tar.gz"
 [[Osi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "edf22281e2fbc522f5d1859987a8a8fb6542ac63"
+git-tree-sha1 = "11f5917ca182539f437a3eaa6bb615e83431f7d6"
 os = "macos"
 
     [[Osi.download]]
-    sha256 = "439a18c957f7dccd366c7934e63ea30c0b863553d34f115db2cd942885723f77"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "4a1e306b08837a267d818e44030d509885c16b960993538ef5027378c49c745e"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.x86_64-apple-darwin14-cxx11.tar.gz"
 [[Osi]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bceb05181de7c501b82b15ad7ff8418ee534dca7"
+git-tree-sha1 = "9c646d3371240e7e5daa59b453b8c5410ef273ec"
 libc = "glibc"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "d073f6dead875950af852686f98920fa066a99e934459252945b8e4359e3ba25"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "3ef3cc8d69a32c46b7b9c07cca1ea5f579f59f1bfe22fd48fc8824c92a1b4ea4"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.i686-linux-gnu-cxx11.tar.gz"
 [[Osi]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dd261accd0d69f5f36030d6d950308f0a0f94c0d"
+git-tree-sha1 = "a4f1ceb1d38071e3ebffa135fa8771e81caa69c9"
 os = "windows"
 
     [[Osi.download]]
-    sha256 = "10a9dd5917903e226254dbc916a9690065ea440bee704127536e60fd5fb0ae6e"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "50af915d3434a1acbf8b4915a4b153db5cfc054fefe3fc832a5d167a2653ddd4"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Osi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d9524d3dc4b6c34e67aaceadd8f44e0907a84424"
+git-tree-sha1 = "d2b53032588c9edb7fdb579c6279d598cb4a1de2"
 libc = "glibc"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "3b76e8d353fe3383d2cca05b3be31210f63e41594338be440be6685a73c129e3"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6a4d72a6e0936d32f0ba30a2f1e8238858566d9df8be63d7cde8d1ca37b96aa9"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.x86_64-linux-gnu-cxx11.tar.gz"
 [[Osi]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8d069696ffce0aa31836724d07378c4f0afd961"
+git-tree-sha1 = "20f043b4bdafc50a51ef71a8911c1ed1fcc450bb"
 libc = "glibc"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "b06dcdd9ab853f92cbd0f6a02f57adc05f69ab1624a438d684e7cacf2cc186d1"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "81febe50e197570062af4920fb5cfb0845efcbaca320a10fc92b35bb94b02dd3"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.aarch64-linux-gnu-cxx11.tar.gz"
 [[Osi]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d68a2ed63b5ce40185a26ed80abfc443f7631784"
+git-tree-sha1 = "0f8a6c507b7a9b80a2567ec64a270ff984db1a8a"
 libc = "musl"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "0fb660e26c0d56aff0fa49990413c2c4ef314c32b445595a2fe41809963b4244"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "50645c8fc245cad32aa0eda67752417f0ce2853ef3ba1fdfaa869de60f86c0aa"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.x86_64-linux-musl-cxx03.tar.gz"
 [[Osi]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "435b7b6b204a28eb44748ce187e03e2b131e2252"
+git-tree-sha1 = "550e2d9d762d9d49a295449249a52765416b6def"
 os = "macos"
 
     [[Osi.download]]
-    sha256 = "103fb6003614d9ea70286446419fc1f07c2285f691d6ab0ebba7fef03b87bc5e"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.x86_64-apple-darwin14-cxx03.tar.gz"
+    sha256 = "27dc8395e5564989c0caba015e095f43338b4d411c46509fb8a9bcd79c65545c"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.x86_64-apple-darwin14-cxx03.tar.gz"
 [[Osi]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "65a310bc3b15f97ca563f05ee4e3449a9b0d1c64"
+git-tree-sha1 = "a0fcd18b05de4c9aa1bfa165057ea48e48232586"
 os = "windows"
 
     [[Osi.download]]
-    sha256 = "edbd8ceea964f444fa0dba96592f6fb1fdd6ecd242dbf0cb4308b412809cfa6b"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "d203f448fc46d53d92af4876eac4f98f3e37ce9e6b0b9bb3d5e67fb9a2fef65a"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.i686-w64-mingw32-cxx03.tar.gz"
 [[Osi]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f6aea3b410a68a40ca6c94a52f123c6734de8789"
+git-tree-sha1 = "32127fcae3ec2203bdc29dccdb06f2709d5d4f4a"
 os = "windows"
 
     [[Osi.download]]
-    sha256 = "0c7b3151c701ecb339e362ae7b51ff355bb25aeac774e0ad1e96476e371e3191"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "161a2c81d86b876230c44ccf5446d8127817abb4294eaab32928d415754b28df"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.i686-w64-mingw32-cxx11.tar.gz"
 [[Osi]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f97987e29b9be44b8d9ce9c66ee9dfcf272a9f5c"
+git-tree-sha1 = "f8b7d4d69c1b0483f44f6b02de5c878dc782a1c6"
 libc = "musl"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "71cee4eae64fdcf6e50379b19b22eccf623dcf60fe602261c53d7cc360c68992"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "b677b748195fccecfc0ac6e00b3b26749d37396010ee78f7e493c5b965d4fd41"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Osi]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "daecd56ebbbfb2b0e0516ff9a2e02d15659b10df"
+git-tree-sha1 = "1c6c5c9248d9ba786a06cfa4c963e7dbf34961c4"
 libc = "glibc"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "08cf320065d780711aefd14177dff2026e5b1745536bd914f8e311940cdf7be6"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "de875ee637f381c34360ef630843fe4db388e5fdbb51ceebdc22bad081bc81d4"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Osi]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "18f9f290b05113d73610efd8bdd3aa0e90214ec9"
+git-tree-sha1 = "7bfb4488e7cf9ac587ffd7304c403d28ba442cd5"
 libc = "glibc"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "a51e135c2bc9c1ac917c13b8c84b4c62cd85b59780b728f6191b09af0b701158"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "f57ff1aadc54209866c08f29e676d9544108f1a53c0825d2a1c12c52ad8dab16"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.aarch64-linux-gnu-cxx03.tar.gz"
 [[Osi]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a6b1a38c6794920ab7dc070a24fe5f0079e210b"
+git-tree-sha1 = "ea069331b80fb288c615461c2f61bd2616545c25"
 libc = "glibc"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "4a1115f886df61d6083ec4ebb121871a9f4e1044fcb4c91c43d9ddd5f77484e7"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "dcc6b94878660d59764f80f08680691eb8e43822c723a0ed555dc5b5c39b7821"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Osi]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1ec66d148a75434c51b007115e3aec889b916ebf"
+git-tree-sha1 = "8a9f8b9a28e23f91de03ee3251e6046c2cbd1c74"
 libc = "musl"
 os = "linux"
 
     [[Osi.download]]
-    sha256 = "78b8e1f8aa1981278af2ccc4fdfc5341e36b9fd0ca8756190ccf6c66ff8df5c7"
-    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.6+1/Osi.v0.108.6.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "bfdf679483b21c5cc276e2ddef085a96bd6fa842842c01fc6bbb2850d2e010b6"
+    url = "https://github.com/JuliaBinaryWrappers/Osi_jll.jl/releases/download/Osi-v0.108.5+0/Osi.v0.108.5.i686-linux-musl-cxx03.tar.gz"
