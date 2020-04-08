@@ -1,6 +1,6 @@
 name = "Osi_jll"
 uuid = "7da25872-d9ce-5375-a4d3-7a845f58efdd"
-version = "0.108.5+0"
+version = "0.108.5+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
