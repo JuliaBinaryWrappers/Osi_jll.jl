@@ -1,6 +1,6 @@
 name = "Osi_jll"
 uuid = "7da25872-d9ce-5375-a4d3-7a845f58efdd"
-version = "0.10800.600+0"
+version = "0.10800.700+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,4 +14,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-CoinUtils_jll = "200.1100.400"
+CoinUtils_jll = "200.1100.600"
