@@ -2,22 +2,22 @@
 export libOsi, libOsiCommonTests
 
 using CoinUtils_jll
-using OpenBLAS32_jll
+using libblastrampoline_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("Osi")
 JLLWrappers.@declare_library_product(libOsi, "@rpath/libOsi.1.dylib")
 JLLWrappers.@declare_library_product(libOsiCommonTests, "@rpath/libOsiCommonTests.1.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(CoinUtils_jll, OpenBLAS32_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(CoinUtils_jll, libblastrampoline_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libOsi,
-        "lib/libOsi.1.13.7.dylib",
+        "lib/libOsi.1.13.10.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libOsiCommonTests,
-        "lib/libOsiCommonTests.1.13.7.dylib",
+        "lib/libOsiCommonTests.1.13.10.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

@@ -2,13 +2,13 @@
 export libOsi, libOsiCommonTests
 
 using CoinUtils_jll
-using OpenBLAS32_jll
+using libblastrampoline_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("Osi")
 JLLWrappers.@declare_library_product(libOsi, "libOsi-1.dll")
 JLLWrappers.@declare_library_product(libOsiCommonTests, "libOsiCommonTests-1.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(CoinUtils_jll, OpenBLAS32_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(CoinUtils_jll, libblastrampoline_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libOsi,
         "bin\\libOsi-1.dll",
