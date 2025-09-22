@@ -11,13 +11,13 @@ function __init__()
     JLLWrappers.@generate_init_header(CoinUtils_jll, libblastrampoline_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libOsi,
-        "lib/libOsi.1.13.10.dylib",
+        "lib/libOsi.1.13.11.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libOsiCommonTests,
-        "lib/libOsiCommonTests.1.13.10.dylib",
+        "lib/libOsiCommonTests.1.13.11.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
